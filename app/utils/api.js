@@ -1,6 +1,6 @@
 const axios=require('axios');
-const id='f8696cfd9f7820a326c2';
-const sec='20cffcccee9af88780d107e106670c67a8bcd520';
+const id='aqui va mi id';
+const sec='aqui mi key0';
 const params= `?client_id=${id}&client_secrect=${sec}`;
 
 
